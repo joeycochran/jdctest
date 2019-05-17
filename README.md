@@ -1,5 +1,5 @@
 # jdctest
 
-A teSt
+A test
 
 Edits have been made
